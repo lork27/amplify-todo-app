@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyfirsttest",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/lorca/Documents/amplify-tutorial/amplify-first-test/amplify/backend/api/amplifyfirsttest/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
