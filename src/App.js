@@ -84,7 +84,7 @@ const App = () => {
 
 const styles = {
   container: {
-    width: 400,
+    width: 410,
     margin: "0 auto",
     display: "flex",
     flexDirection: "column",
